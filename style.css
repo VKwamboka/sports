@@ -1460,7 +1460,10 @@ hr.invis1 {
 .bootstrap-select:not([class*="col-"]):not([class*="form-control"]):not(.input-group-btn) {
 	width: 100%;
 }
-
+.col-lg-5 {
+	width: 100%;
+	top: 200px;
+  }
 .bootstrap-select .dropdown-toggle:focus {
 	outline: thin dotted #333333 !important;
 	outline: 5px auto -webkit-focus-ring-color !important;
