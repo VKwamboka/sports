@@ -2183,6 +2183,13 @@ aside#sidebar .team-btw-match ul li.vs span {
 .standing-table-wrap {
 	padding: 45px 0 70px 0;
 }
+.container {
+	padding-right: 15px;
+	padding-left: 15px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
 
 .footer {
 	color: #fff;
