@@ -2179,6 +2179,11 @@ aside#sidebar .team-btw-match ul li.vs span {
 	display: none;
 }
 
+/* free tips */
+.standing-table-wrap {
+	padding: 45px 0 70px 0;
+}
+
 .footer {
 	color: #fff;
 }
