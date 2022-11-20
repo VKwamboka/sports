@@ -664,9 +664,9 @@
      font-size: 14px;
 }
  aside#sidebar .team-btw-match ul li {
-     width: 41%;
+     width: 100%;
      text-align: center;
-     float: right;
+     /* float: right; */
 }
  aside#sidebar .team-btw-match.style-2 ul li span {
      color: #222;
