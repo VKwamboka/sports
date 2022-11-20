@@ -88,10 +88,6 @@ body.demos .container-fluid {
 	max-width: 1080px
 }
 
-.col-md-12 .t-msg{
-	top: 300px;
-}
-
 a {
 	/*color: #1f1f1f;*/
 	color: #f3e7e7;
@@ -1706,9 +1702,6 @@ hr.invis1 {
 .bs-actionsbox,
 .bs-donebutton {
 	padding: 4px 8px;
-}
-.row{
-	top: 300px;
 }
 
 .bs-actionsbox {
