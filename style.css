@@ -2218,6 +2218,13 @@ h1, h2, h3, h4, h5, h6 {
 	padding-right: 15px;
 	padding-left: 15px;
 }
+.standings-table .standing-full {
+	white-space: nowrap;
+}
+.standing-full {
+	margin-bottom: 25px;
+	width: 100%;
+}
 
 
 
