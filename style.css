@@ -2225,6 +2225,14 @@ h1, h2, h3, h4, h5, h6 {
 	margin-bottom: 25px;
 	width: 100%;
 }
+table {
+	background-color: transparent;
+}
+table {
+	border-spacing: 0;
+	border-collapse: collapse;
+}
+
 
 
 
