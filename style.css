@@ -1703,6 +1703,9 @@ hr.invis1 {
 .bs-donebutton {
 	padding: 4px 8px;
 }
+.row{
+	top: 300px;
+}
 
 .bs-actionsbox {
 	float: left;
