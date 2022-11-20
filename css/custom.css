@@ -463,10 +463,10 @@
 }
  .full-slider {
      position: relative;
-     top: 400px;
+     margin-top: 400px;
 }
  div.full-slider .carousel-indicators {
-     /* bottom: 45px; */
+     bottom: 45px;
      margin-bottom: 0;
 }
  .full {
