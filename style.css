@@ -2278,3 +2278,6 @@ section.team h4 {
 .fade.in {
 	opacity: 1;
 }
+.standings-table .standing-full {
+	white-space: nowrap;
+}
