@@ -1086,7 +1086,7 @@
 }
  p {
      font-size: 15px;
-     text-align: center;
+     /* text-align: center; */
      color: #333;
      line-height: 28px;
 }
