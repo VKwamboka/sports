@@ -2288,3 +2288,11 @@ section.team h4 {
 .standings-table .standing-full {
 	white-space: nowrap;
 }
+div {
+	margin: 0;
+	padding: 0;
+	font-family: "Open Sans",sans-serif;
+	font-size: 16px;
+	color: #3d3d3d;
+	line-height: 26px;
+}
