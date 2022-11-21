@@ -2275,3 +2275,6 @@ section.team h4 {
 	color: #3d3d3d;
 	line-height: 26px;
 }
+.fade.in {
+	opacity: 1;
+}
