@@ -2274,9 +2274,16 @@ section.team h4 {
 	font-size: 16px;
 	color: #3d3d3d;
 	line-height: 26px;
+	display: block;
 }
 .fade.in {
 	opacity: 1;
+}
+.fade {
+	opacity: 0;
+	-webkit-transition: opacity .15s linear;
+	-o-transition: opacity .15s linear;
+	transition: opacity .15s linear;
 }
 .standings-table .standing-full {
 	white-space: nowrap;
