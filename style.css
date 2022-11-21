@@ -2233,8 +2233,10 @@ table {
 	border-collapse: collapse;
 }.col-md-8 {
 	width: 66.66666667%;
+	text-align: justify;
 }
 p.MsoNormal, li.MsoNormal, div.MsoNormal {
+
 	margin-top: 0cm;
 	margin-right: 0cm;
 	margin-bottom: 8.0pt;
